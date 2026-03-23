@@ -1,2 +1,6 @@
 # Learning
-Organized repository for programming exercises, study projects and learning tasks
+This repository contains my study works: notes, tasks, labs, assignments etc.
+Everything is organized by **language -> course -> module**.
+
+## Languages:
+-C++
